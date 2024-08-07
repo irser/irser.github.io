@@ -8,3 +8,5 @@
 - January 16-17, 2024: [International Research Software Engineering Research Community Meetup](https://fg-rse.gi.de/veranstaltung/international-research-software-engineering-research-community-meetup)
 - June 9, 2023: [Toward Research Software Engineering Research](https://doi.org/10.5281/ZENODO.8020525)
 - March 30, 2022: [What do we (not) know about Research Software Engineering?](https://github.com/NLeSC/RSE-research)
+
+Contact: [Wilhelm (Willi) Hasselbring](https://www.se.informatik.uni-kiel.de/en/team/prof.-dr.-wilhelm-willi-hasselbring)
