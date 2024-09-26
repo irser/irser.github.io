@@ -1,6 +1,6 @@
 # International RSE Research
+- September 19th, 2024: Blog post on [Directions for Research Software Engineering Research](https://doi.org/10.59350/kr4cp-1vf81).
 - September 6th, 2024 at 10:30 h BST (UK time): Online meeting to present and discuss the results of the questionaire to assess the relevance of the discussed research questions.
-  - [Zoom link](https://uni-kiel.zoom-x.de/j/62219242823?pwd=bFRNlQkMa7EbB70IiAiOu8no7pZvom.1)
 - September 03, 2024: [Panel on Research Directions for Multi-Disciplinary RSE Research to Impact RSE Practise](https://virtual.oxfordabstracts.com/#/event/49081/submission/61)
   - [Online questionaire to assess the relevance of the discussed research questions](https://forms.gle/3tPS1W8qyv6rRNiA9)
   - [Slides](https://oceanrep.geomar.de/id/eprint/60691/)
