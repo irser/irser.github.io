@@ -4,6 +4,7 @@
   - Extended version with examples: DOI [10.5281/zenodo.14082553](https://doi.org/10.5281/zenodo.14082553)
 - June 2025: New CiSE paper on Research Software Architecture
   - S. Druskat, N.U. Eisty, R. Chisholm, N.P. Chue Hong, R.C. Cocking, M.B. Cohen, M. Felderer, L. Grunske, S.A. Harris, W. Hasselbring, T. Krause, J. Linxweiler, C.C. Venters. (2025) “Better Architecture, Better Software, Better Research.” Computing in Science & Engineering, 27(2). pp. 45-57. DOI [10.1109/MCSE.2025.3573887](https://doi.org/10.1109/MCSE.2025.3573887)
+- May 2025: Lounch of the new ReSA forum on [Metascience and Research Software (MaRS)](https://www.researchsoft.org/mars-forum/)
 - February 2025: Article in Communications of the ACM:
   - Felderer, M., Goedicke, M., Grunske, L., Hasselbring, W., Lamprecht, A. L. and Rumpe, B. (2025) "Investigating Research Software Engineering: Toward RSE Research." Communications of the ACM, 68(2). pp. 20-23. DOI [10.1145/3685265](https://doi.org/10.1145/3685265)
   - Teaser video: 
